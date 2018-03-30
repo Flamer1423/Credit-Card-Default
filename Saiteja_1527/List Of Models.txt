@@ -1,0 +1,4 @@
+1 Logistic regression
+2 Decission trees
+3 Random Forests
+4 SVM
